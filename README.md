@@ -19,20 +19,16 @@ A machine learning-based web application built with **Streamlit** that classifie
    ```bash  
    git clone https://github.com/your-username/sms-spam-classifier.git  
    ```  
-2. Navigate to the project folder:  
-   ```bash  
-   cd sms-spam-classifier  
-   ```  
-3. Install dependencies:  
+2. Install dependencies:  
    ```bash  
    pip install -r requirements.txt  
    ```  
-4. Run the app:  
+3. Run the app:  
    ```bash 
    streamlit run app.py 
      
    ```  
-5. Enter an Email/SMS message and check if it’s spam or not!  
+4. Enter an Email/SMS message and check if it’s spam or not!  
 
 ## **Contributing**  
 Feel free to fork the repository, submit pull requests, or report issues. Let's improve spam detection together! 🚀

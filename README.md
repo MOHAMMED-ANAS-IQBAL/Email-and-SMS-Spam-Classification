@@ -25,7 +25,7 @@ A machine learning-based web application built with **Streamlit** that classifie
    ```  
 3. Run the app:  
    ```bash 
-   streamlit run app.py 
+   python -m streamlit run app.py 
      
    ```  
 4. Enter an Email/SMS message and check if it’s spam or not!  
